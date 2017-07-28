@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="640,300">
+  <displayList>
+    <image id="n1_9vxj" name="n1" src="r5re6r" xy="45,0" size="550,98" group="n10_9vxj"/>
+    <text id="n2_9vxj" name="n2" xy="189,8" size="377,78" group="n10_9vxj" fontSize="12" color="#ffffff" vAlign="middle" autoSize="none" bold="true" text="1.中发白算花&#xA;2.明杠算一花、暗杠算两花；门前清翻一倍，杠开翻一倍&#xA;3.一花时只能自摸，两花时可以胡别人&#xA;4.一旦敲了不能摸牌，别人冲必须胡&#xA;5.可约定是否黄翻，只有垃圾胡"/>
+    <image id="n3_9vxj" name="n3" src="r5re6r" xy="45,111" size="550,48" group="n10_9vxj"/>
+    <image id="n4_9vxj" name="n4" src="r5re6r" xy="45,172" size="550,48" group="n10_9vxj"/>
+    <text id="n5_9vxj" name="n5" xy="54,120" size="128,29" group="n10_9vxj" font="黑体" fontSize="25" color="#ffffff" autoSize="height" bold="true" singleLine="true" text="分    数："/>
+    <text id="n6_9vxj" name="n6" xy="54,182" size="126,29" group="n10_9vxj" font="黑体" fontSize="25" color="#ffffff" autoSize="height" bold="true" singleLine="true" text="局    数："/>
+    <text id="n7_9vxj" name="30" xy="190,123" size="377,26" group="n10_9vxj" font="黑体" fontSize="22" color="#ffffff" autoSize="none" bold="true" singleLine="true" text="底分2分    花分1分    勒子10分"/>
+    <text id="n8_9vxj" name="n8" xy="54,8" size="128,29" group="n10_9vxj" font="黑体" fontSize="25" color="#ffffff" autoSize="height" bold="true" singleLine="true" text="玩    法："/>
+    <text id="n9_9vxj" name="30" xy="190,183" size="379,26" group="n10_9vxj" font="黑体" fontSize="22" color="#ffffff" autoSize="none" bold="true" singleLine="true" text="8局"/>
+    <group id="n10_9vxj" name="n10" xy="45,0" size="550,220"/>
+  </displayList>
+</component>

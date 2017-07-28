@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="960,540">
+  <controller name="wanfa" pages="0,,1,,2," selected="0"/>
+  <controller name="jushu" pages="0,,1," selected="0"/>
+  <controller name="fufei" pages="0,,1," selected="0"/>
+  <controller name="xianmian" pages="0,,1," selected="0"/>
+  <displayList>
+    <image id="n1_ojam" name="n1" src="ojam2b" xy="35,37" size="899,481"/>
+    <image id="n37_c72u" name="n37" src="rixx46" xy="49,48" size="179,458"/>
+    <image id="n3_rixx" name="n3" src="rixx47" xy="331,9"/>
+    <image id="n2_rixx" name="n2" src="rixx61" xy="393,21"/>
+    <component id="n4_rixx" name="n4" src="ojam2e" xy="895,27"/>
+    <component id="n7_r5re" name="n7" src="r5re6q" xy="69,72"/>
+    <text id="n8_r5re" name="n8" xy="52,318" size="113,29" font="黑体" fontSize="25" color="#3a711f" bold="true" text="上海麻将"/>
+    <text id="n9_r5re" name="n9" xy="57,346" size="160,120" font="黑体" fontSize="16" color="#3a711f" autoSize="none" bold="true" text="包含敲码、清混碰、百搭三种打法，番型简单易懂、节奏较慢、技巧性较大，有独特的花分设计和封顶值规则。"/>
+    <image id="n11_r5re" name="n11" src="r5re6r" xy="241,103" size="658,129"/>
+    <image id="n12_r5re" name="n12" src="r5re6r" xy="241,247" size="658,48"/>
+    <image id="n13_r5re" name="n13" src="r5re6r" xy="241,310" size="658,48"/>
+    <image id="n14_r5re" name="n14" src="r5re6r" xy="241,373" size="658,48"/>
+    <component id="n15_r5re" name="n15" src="r5re6t" xy="452,433"/>
+    <text id="n16_r5re" name="n16" xy="638,484" size="276,18" font="黑体" fontSize="14" color="#3a711f" bold="true" text="提示：限免仅限AA制付费模式下个人使用"/>
+    <text id="n17_r5re" name="n17" xy="252,112" size="129,29" font="黑体" fontSize="25" color="#ffffff" autoSize="height" bold="true" singleLine="true" text="玩    法："/>
+    <text id="n18_r5re" name="n18" xy="252,256" size="128,29" font="黑体" fontSize="25" color="#ffffff" autoSize="height" bold="true" singleLine="true" text="分    数："/>
+    <text id="n19_r5re" name="n19" xy="252,320" size="126,29" font="黑体" fontSize="25" color="#ffffff" autoSize="height" bold="true" singleLine="true" text="局    数："/>
+    <text id="n20_r5re" name="n20" xy="252,383" size="126,29" font="黑体" fontSize="25" color="#ffffff" autoSize="height" bold="true" singleLine="true" text="房间付费："/>
+    <component id="n23_r5re" name="n23" src="r5re6u" xy="392,113" size="87,28">
+      <Button checked="true" title="敲码" controller="wanfa" page="0"/>
+    </component>
+    <component id="n24_r5re" name="n24" src="r5re6u" xy="560,113" size="110,28">
+      <Button title="清混碰" controller="wanfa" page="1"/>
+    </component>
+    <component id="n25_r5re" name="n25" src="r5re6u" xy="747,113" size="89,28">
+      <Button title="百搭" controller="wanfa" page="2"/>
+    </component>
+    <text id="n27_c72u" name="n27" xy="385,147" size="495,78" fontSize="12" color="#ffffff" vAlign="middle" autoSize="none" bold="true" text="1.中发白算花&#xA;2.明杠算一花、暗杠算两花；门前清翻一倍，杠开翻一倍&#xA;3.一花时只能自摸，两花时可以胡别人&#xA;4.一旦敲了不能摸牌，别人冲必须胡&#xA;5.可约定是否黄翻，只有垃圾胡">
+      <gearDisplay controller="wanfa" pages="0"/>
+    </text>
+    <text id="n28_c72u" name="n28" xy="385,147" size="495,78" fontSize="12" color="#ffffff" vAlign="middle" autoSize="none" bold="true" text="1.中发白碰的算两花，杠的算三花&#xA;2.杠开翻一倍&#xA;3.吃或碰同一家3口算承包&#xA;4.不能垃圾胡">
+      <gearDisplay controller="wanfa" pages="1"/>
+    </text>
+    <text id="n29_c72u" name="n29" xy="385,147" size="495,78" fontSize="12" color="#ffffff" vAlign="middle" autoSize="none" bold="true" text="1.三百搭：用骰子选出最后一墩中哪张牌为百搭牌，剩下的3张作为百搭牌&#xA;2.四百搭：骰子选出最后一墩中哪张牌为百搭牌，4张均为百搭牌&#xA;3.只能碰，不能吃&#xA;4.只能自摸">
+      <gearDisplay controller="wanfa" pages="2"/>
+    </text>
+    <text id="n30_c72u" name="30" xy="388,259" size="399,26" font="黑体" fontSize="22" color="#ffffff" autoSize="none" bold="true" singleLine="true" text="底分2分    花分1分    勒子10分"/>
+    <component id="n31_c72u" name="n31" src="r5re6u" xy="392,384" size="133,28">
+      <Button checked="true" title="房主全包" controller="fufei" page="0"/>
+    </component>
+    <component id="n32_c72u" name="n32" src="r5re6u" xy="642,384" size="91,28">
+      <Button checked="true" title="AA制" controller="fufei" page="1"/>
+    </component>
+    <component id="n33_c72u" name="n33" src="r5re6u" xy="392,320" size="202,28">
+      <Button checked="true" title="8局（1房卡/人）" controller="jushu" page="0"/>
+    </component>
+    <component id="n34_c72u" name="n34" src="r5re6u" xy="642,320" size="202,28">
+      <Button title="16局（2房卡/人）" controller="jushu" page="1"/>
+    </component>
+    <text id="n35_c72u" name="title" xy="733,386" size="160,26" font="黑体" fontSize="22" color="#ff0000" vAlign="middle" autoSize="none" bold="true" singleLine="true" text="（免费30天）">
+      <gearDisplay controller="xianmian" pages="1"/>
+    </text>
+  </displayList>
+</component>

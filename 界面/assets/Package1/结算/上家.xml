@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="189,223">
+  <controller name="shengfu" pages="0,,1," selected="0"/>
+  <displayList>
+    <image id="n4_t303" name="n4" src="t3037e" xy="0,0">
+      <gearDisplay controller="shengfu" pages="0"/>
+    </image>
+    <image id="n9_t303" name="n9" src="t3037h" xy="0,0">
+      <gearDisplay controller="shengfu" pages="1"/>
+    </image>
+    <component id="n13_n7u3" name="n5" src="n7u37x" xy="54,66"/>
+    <text id="n6_t303" name="n6" xy="40,13" size="109,29" font="黑体" fontSize="25" color="#ffffff" align="center" vAlign="middle" autoSize="height" bold="true" strokeColor="#000000" strokeSize="2" singleLine="true" text="Jerry"/>
+    <text id="n7_t303" name="n7" xy="10,56" size="54,24" font="黑体" fontSize="20" color="#ffffff" align="center" vAlign="middle" autoSize="height" bold="true" strokeColor="#000000" strokeSize="2" singleLine="true" text="上家">
+      <gearDisplay controller=""/>
+    </text>
+    <text id="n8_t303" name="n8" xy="15,162" size="160,24" font="黑体" fontSize="20" color="#ffffff" align="center" vAlign="middle" autoSize="height" bold="true" strokeColor="#000000" strokeSize="2" singleLine="true" text="得分：99999"/>
+  </displayList>
+</component>

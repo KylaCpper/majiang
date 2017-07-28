@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="960,540">
+  <displayList>
+    <image id="n1_jg31" name="n1" src="ojam2b" xy="258,192" size="447,193"/>
+    <text id="n2_jg31" name="n2" xy="366,226" size="227,40" fontSize="36" color="#b28d64" bold="true" text="退出当前房间"/>
+    <component id="n5_jg31" name="n5" src="jg3137" xy="304,300"/>
+    <component id="n6_jg31" name="n6" src="jg3135" xy="494,300"/>
+  </displayList>
+</component>

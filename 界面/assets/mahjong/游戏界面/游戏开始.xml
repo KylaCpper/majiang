@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="960,540">
+  <controller name="tuoguan" pages="0,,1," selected="1"/>
+  <controller name="start" pages="0,,1," selected="1"/>
+  <controller name="zhunbei" pages="0,,1,,2,,3,,4," selected="0"/>
+  <displayList>
+    <component id="n2_xaa9" name="n2" src="j5wq17" xy="19,20"/>
+    <component id="n4_f118" name="n4" src="j5wq18" xy="16,96"/>
+    <component id="n6_f118" name="n6" src="j5wq1a" xy="877,16"/>
+    <component id="n7_f118" name="n7" src="j5wq19" xy="797,18"/>
+    <component id="n8_f118" name="n8" src="j5wq1h" xy="877,271">
+      <gearDisplay controller="tuoguan" pages="0"/>
+      <Button controller="tuoguan" page="0"/>
+    </component>
+    <component id="n9_f118" name="n9" src="j5wq1b" xy="13,337"/>
+    <image id="n12_f118" name="n12" src="f1182z" xy="663,6" size="60,86" group="n27_s7qa"/>
+    <loader id="n13_f118" name="n13" xy="663,6" size="60,60" group="n27_s7qa"/>
+    <text id="n24_s7qa" name="n24" xy="666,65" size="54,24" group="n27_s7qa" font="黑体" fontSize="20" color="#ff9966" align="center" vAlign="middle" autoSize="none" bold="true" singleLine="true" text="+999"/>
+    <group id="n27_s7qa" name="n27" xy="663,6" size="60,86" collapsed="true"/>
+    <image id="n18_s7qa" name="n18" src="f1182z" xy="39,173" size="60,86" group="n28_s7qa"/>
+    <loader id="n19_s7qa" name="n19" xy="39,173" size="60,60" group="n28_s7qa"/>
+    <text id="n23_s7qa" name="n23" xy="42,232" size="54,24" group="n28_s7qa" font="黑体" fontSize="20" color="#ff9966" align="center" vAlign="middle" autoSize="none" bold="true" singleLine="true" text="+999"/>
+    <group id="n28_s7qa" name="n28" xy="39,173" size="60,86" collapsed="true"/>
+    <image id="n16_s7qa" name="n16" src="f1182z" xy="843,173" size="60,86" group="n29_s7qa"/>
+    <loader id="n17_s7qa" name="n17" xy="843,173" size="60,60" group="n29_s7qa"/>
+    <text id="n25_s7qa" name="n25" xy="846,232" size="54,24" group="n29_s7qa" font="黑体" fontSize="20" color="#ff9966" align="center" vAlign="middle" autoSize="none" bold="true" singleLine="true" text="+999"/>
+    <group id="n29_s7qa" name="n29" xy="843,173" size="60,86" collapsed="true"/>
+    <image id="n14_s7qa" name="n14" src="f1182z" xy="15,423" size="60,86" group="n30_s7qa"/>
+    <loader id="n15_s7qa" name="n15" xy="15,423" size="60,60" group="n30_s7qa"/>
+    <text id="n26_s7qa" name="n26" xy="18,482" size="54,24" group="n30_s7qa" font="黑体" fontSize="20" color="#ff9966" align="center" vAlign="middle" autoSize="none" bold="true" singleLine="true" text="+999"/>
+    <group id="n30_s7qa" name="n30" xy="15,423" size="60,86" collapsed="true"/>
+    <image id="n31_c72u" name="n31" src="j5wq6" xy="387,352">
+      <gearDisplay controller="tuoguan" pages="1"/>
+    </image>
+    <component id="n32_c72u" name="n32" src="s7qa30" xy="397,418">
+      <gearDisplay controller="tuoguan" pages="1"/>
+      <Button checked="true" controller="tuoguan" page="1"/>
+    </component>
+    <component id="n33_q1wt" name="n33" src="q1wt85" xy="397,416">
+      <gearDisplay controller="start" pages="1"/>
+    </component>
+    <image id="n36_q1wt" name="n36" src="j5wq9" xy="420,334">
+      <gearDisplay controller="zhunbei" pages="4"/>
+    </image>
+    <image id="n37_q1wt" name="n37" src="j5wq9" xy="230,194">
+      <gearDisplay controller="zhunbei" pages="1"/>
+    </image>
+    <image id="n38_q1wt" name="n38" src="j5wq9" xy="420,79">
+      <gearDisplay controller="zhunbei" pages="2"/>
+    </image>
+    <image id="n39_q1wt" name="n39" src="j5wq9" xy="595,194">
+      <gearDisplay controller="zhunbei" pages="3"/>
+    </image>
+  </displayList>
+</component>

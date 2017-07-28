@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="960,540">
+  <controller name="c1" pages="0,,1,,2," selected="0"/>
+  <displayList>
+    <image id="n8_r5re" name="n8" src="ojam2b" xy="131,52" size="688,468"/>
+    <image id="n9_r5re" name="n9" src="ojam2d" xy="783,36"/>
+    <image id="n10_r5re" name="n10" src="rixx47" xy="286,21"/>
+    <image id="n11_r5re" name="n11" src="r5re6l" xy="381,45"/>
+    <component id="n3_r5re" name="n3" src="r5re6f" xy="572,119">
+      <Button controller="c1" page="2"/>
+    </component>
+    <component id="n4_r5re" name="n4" src="r5re6g" xy="198,118">
+      <Button checked="true" controller="c1" page="0"/>
+    </component>
+    <component id="n5_r5re" name="n5" src="r5re6h" xy="384,119">
+      <Button controller="c1" page="1"/>
+    </component>
+    <list id="n1_r5re" name="n1" xy="156,197" size="640,300" overflow="scroll" defaultItem="ui://n6ne5l88r5re68">
+      <gearDisplay controller="c1" pages="0"/>
+      <item/>
+    </list>
+    <list id="n6_r5re" name="n6" xy="156,197" size="640,300" overflow="scroll" defaultItem="ui://n6ne5l88r5re69">
+      <gearDisplay controller="c1" pages="1"/>
+      <item/>
+    </list>
+    <list id="n7_r5re" name="n7" xy="156,197" size="640,300" overflow="scroll" defaultItem="ui://n6ne5l88r5re6a">
+      <gearDisplay controller="c1" pages="2"/>
+      <item/>
+    </list>
+  </displayList>
+</component>

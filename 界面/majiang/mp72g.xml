@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="63,63">
+  <displayList>
+    <image id="n9" name="n9" src="mp72a" xy="0,0"/>
+    <text id="n10" name="n10" xy="13,18" size="35,34" fontSize="30" text="杠"/>
+  </displayList>
+</component>

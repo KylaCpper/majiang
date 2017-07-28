@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="960,540">
+  <displayList>
+    <image id="n1_c72u" name="n1" src="ojam2b" xy="276,117" size="407,282"/>
+    <component id="n4_c72u" name="n4" src="ojam2e" xy="648,101"/>
+    <image id="n5_c72u" name="n5" src="c72u7b" xy="428,105"/>
+  </displayList>
+</component>

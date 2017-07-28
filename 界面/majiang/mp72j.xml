@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="73,44">
+  <displayList>
+    <image id="n13" name="n13" src="mp72h" xy="0,0"/>
+    <text id="n14" name="n14" xy="5,7" size="62,32" fontSize="28" color="#ff0000" autoSize="height" bold="true" strokeColor="#000000" text="打牌"/>
+  </displayList>
+</component>

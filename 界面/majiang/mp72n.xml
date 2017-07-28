@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="167,41">
+  <displayList>
+    <image id="n32" name="n32" src="mp72m" xy="0,0"/>
+    <text id="n34" name="n34" xy="22,7" size="129,28" input="true" fontSize="20" autoSize="none" text=""/>
+  </displayList>
+</component>

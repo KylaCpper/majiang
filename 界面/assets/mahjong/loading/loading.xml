@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="960,540">
+  <displayList>
+    <image id="n5_rixx" name="n5" src="gmwa2u" xy="440,231" pivot="0.5,0.5" size="80,76" aspect="true"/>
+    <image id="n6_rixx" name="n6" src="pkq02v" xy="413,312" size="85,22" aspect="true"/>
+    <graph id="n12_rixx" name="n12" xy="508,326" size="5,5" aspect="true" type="eclipse" lineSize="0" lineColor="#ff666666"/>
+    <graph id="n13_rixx" name="n13" xy="527,326" size="5,5" aspect="true" type="eclipse" lineSize="0" lineColor="#ff666666"/>
+    <graph id="n14_rixx" name="n14" xy="544,326" size="5,5" aspect="true" type="eclipse" lineSize="0" lineColor="#ff666666"/>
+  </displayList>
+  <transition name="t0" autoPlay="true" autoPlayRepeat="-1">
+    <item time="0" type="Alpha" target="n14_rixx" value="0"/>
+    <item time="0" type="Alpha" target="n13_rixx" value="0"/>
+    <item time="0" type="Alpha" target="n12_rixx" value="0"/>
+    <item time="2" type="Alpha" target="n12_rixx" value="1"/>
+    <item time="11" type="Alpha" target="n13_rixx" value="1"/>
+    <item time="21" type="Alpha" target="n14_rixx" value="1"/>
+    <item time="34" type="Alpha" target="n12_rixx" value="0"/>
+    <item time="34" type="Alpha" target="n14_rixx" value="0"/>
+    <item time="34" type="Alpha" target="n13_rixx" value="0"/>
+    <item time="46" type="Alpha" target="n12_rixx" value="0"/>
+    <item time="46" type="Alpha" target="n13_rixx" value="0"/>
+    <item time="46" type="Alpha" target="n14_rixx" value="0"/>
+  </transition>
+  <transition name="t1" autoPlay="true" autoPlayRepeat="-1">
+    <item time="0" type="Rotation" target="n5_rixx" tween="true" startValue="0" endValue="360" duration="24" ease="Linear"/>
+  </transition>
+</component>

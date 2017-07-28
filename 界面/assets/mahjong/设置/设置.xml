@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="960,540">
+  <controller name="yuyan" pages="0,,1," selected="0"/>
+  <displayList>
+    <image id="n1_ojam" name="n1" src="ojam2b" xy="102,75" size="760,406"/>
+    <component id="n4_ojam" name="n4" src="ojam2e" xy="826,59"/>
+    <text id="n5_ojam" name="n5" xy="182,236" size="100,40" font="黑体" fontSize="36" color="#b28d64" autoSize="none" bold="true" singleLine="true" text="音效："/>
+    <text id="n6_ojam" name="n6" xy="182,313" size="100,40" font="黑体" fontSize="36" color="#b28d64" autoSize="none" bold="true" singleLine="true" text="音乐："/>
+    <component id="n7_ojam" name="n7" src="ojam2f" xy="172,150" size="140,35">
+      <Button checked="true" title="普通话" titleColor="#b28d64" titleFontSize="30" controller="yuyan" page="0"/>
+    </component>
+    <component id="n8_ojam" name="n8" src="ojam2f" xy="490,150">
+      <Button title="上海话" titleColor="#b28d64" titleFontSize="30" controller="yuyan" page="1"/>
+    </component>
+    <component id="n16_ojam" name="n16" src="ojam2k" xy="296,246" size="365,23">
+      <Slider value="50" max="100"/>
+    </component>
+    <component id="n17_ojam" name="n17" src="ojam2k" xy="296,324" size="365,23">
+      <Slider value="50" max="100"/>
+    </component>
+    <component id="n18_ojam" name="n18" src="ojam2m" xy="711,227"/>
+    <component id="n19_ojam" name="n19" src="ojam2m" xy="711,307"/>
+    <image id="n24_rixx" name="n24" src="rixx47" xy="286,44"/>
+    <image id="n2_ojam" name="n2" src="ojam2c" xy="412,63"/>
+    <component id="n20_ojam" name="n20" src="ojam2n" xy="172,402" size="230,35">
+      <Button title="屏蔽玩家语音"/>
+    </component>
+    <component id="n23_s7qa" name="n23" src="ojam2n" xy="490,402">
+      <Button title="关闭视屏聊天"/>
+    </component>
+  </displayList>
+</component>

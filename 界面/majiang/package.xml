@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="ks14vf6x" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="mp720" name="Component1" folder="" file="mp720.xml" exported="true"/>
+    <component id="mp721" name="Component2" folder="" file="mp721.xml" exported="true"/>
+    <component id="mp722" name="Component3" folder="" file="mp722.xml" exported="true"/>
+    <image id="mp724" name="x4wy20" folder="" qualityOption="source" file="mp724.png" size="229,109"/>
+    <component id="mp725" name="Component4" folder="" file="mp725.xml"/>
+    <image id="mp726" name="x4wy3z" folder="" qualityOption="source" file="mp726.png" size="144,63"/>
+    <component id="mp727" name="Component5" folder="" file="mp727.xml"/>
+    <image id="mp728" name="hzr9l" folder="" qualityOption="source" file="mp728.png" size="540,960"/>
+    <image id="mp729" name="grgo7" folder="" qualityOption="source" file="mp729.png" size="345,384"/>
+    <image id="mp72a" name="grgo5" folder="" qualityOption="source" file="mp72a.png" size="63,63"/>
+    <image id="mp72b" name="grgo4" folder="" qualityOption="source" file="mp72b.png" size="63,63"/>
+    <image id="mp72c" name="grgo1" folder="" qualityOption="source" file="mp72c.png" size="74,74"/>
+    <image id="mp72d" name="grgob" folder="" qualityOption="source" file="mp72d.png" size="57,58"/>
+    <component id="mp72e" name="吃" folder="" file="mp72e.xml" exported="true"/>
+    <component id="mp72f" name="碰" folder="" file="mp72f.xml" exported="true"/>
+    <component id="mp72g" name="杠" folder="" file="mp72g.xml" exported="true"/>
+    <image id="mp72h" name="grgod" folder="" qualityOption="source" file="mp72h.png" size="73,44"/>
+    <component id="mp72i" name="胡" folder="" file="mp72i.xml" exported="true"/>
+    <component id="mp72j" name="打牌" folder="" file="mp72j.xml" exported="true"/>
+    <image id="mp72k" name="x4wy6g" folder="" qualityOption="source" file="mp72k.png" size="115,60"/>
+    <component id="mp72l" name="Component6" folder="" file="mp72l.xml"/>
+    <image id="mp72m" name="x4wy14" folder="" qualityOption="source" file="mp72m.png" size="167,41"/>
+    <component id="mp72n" name="Component7" folder="" file="mp72n.xml"/>
+  </resources>
+  <publish name="majiang" zipExt="fui"/>
+</packageDescription>

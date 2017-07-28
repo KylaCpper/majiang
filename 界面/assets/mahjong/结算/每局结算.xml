@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="960,540">
+  <displayList>
+    <image id="n26_n7u3" name="n26" src="r5re6r" xy="0,0" size="960,540"/>
+    <component id="n11_n7u3" name="n11" src="t3037j" xy="106,6"/>
+    <component id="n12_n7u3" name="n12" src="n7u37k" xy="283,7"/>
+    <component id="n13_n7u3" name="n13" src="n7u37l" xy="460,6"/>
+    <component id="n14_n7u3" name="n14" src="n7u37m" xy="637,6"/>
+    <image id="n24_n7u3" name="n24" src="t3037g" xy="114,229" size="708,221"/>
+    <image id="n15_n7u3" name="n15" src="t3037i" xy="152,203" size="627,53"/>
+    <text id="n16_n7u3" name="n16" xy="377,212" size="81,29" font="黑体" fontSize="25" color="#ffffff" autoSize="none" bold="true" strokeColor="#000000" strokeSize="2" singleLine="true" text="上家胜"/>
+    <text id="n17_n7u3" name="n17" xy="506,212" size="116,29" font="黑体" fontSize="25" color="#ffffff" vAlign="middle" autoSize="none" bold="true" strokeColor="#000000" strokeSize="2" singleLine="true" text="5番"/>
+    <loader id="n18_n7u3" name="n18" xy="266,273" size="426,44"/>
+    <list id="n19_n7u3" name="n19" xy="137,331" size="658,98" layout="pagination" overflow="scroll" margin="0,0,80,0" colGap="80" defaultItem="ui://n6ne5l88n7u37n" align="center">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n22_n7u3" name="n22" src="jg3135" xy="503,463"/>
+    <component id="n23_n7u3" name="n23" src="n7u37o" xy="273,463"/>
+  </displayList>
+</component>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="960,540">
+  <displayList>
+    <image id="n2_rixx" name="n2" src="ojam2b" xy="239,77" size="510,403"/>
+    <component id="n3_rixx" name="n3" src="ojam2e" xy="712,60"/>
+    <component id="n4_rixx" name="n4" src="jg3135" xy="544,126"/>
+    <image id="n6_rixx" name="n6" src="rixx47" xy="301,48"/>
+    <image id="n5_rixx" name="n5" src="rixx4t" xy="389,64"/>
+    <image id="n20_rixx" name="n20" src="rixx58" xy="279,195" size="423,244"/>
+    <component id="n8_rixx" name="n8" src="rixx56" xy="423,380"/>
+    <component id="n9_rixx" name="n9" src="rixx4w" xy="283,200"/>
+    <component id="n10_rixx" name="n10" src="rixx4x" xy="423,200"/>
+    <component id="n11_rixx" name="n11" src="rixx4y" xy="563,200"/>
+    <component id="n12_rixx" name="n12" src="rixx4z" xy="283,260"/>
+    <component id="n13_rixx" name="n13" src="rixx50" xy="423,260"/>
+    <component id="n14_rixx" name="n14" src="rixx51" xy="563,260"/>
+    <component id="n15_rixx" name="n15" src="rixx52" xy="283,320"/>
+    <component id="n16_rixx" name="n16" src="rixx53" xy="423,320"/>
+    <component id="n17_rixx" name="n17" src="rixx54" xy="563,320"/>
+    <component id="n18_rixx" name="n18" src="rixx55" xy="283,380"/>
+    <component id="n19_rixx" name="n19" src="rixx57" xy="563,380"/>
+    <image id="n23_rixx" name="n23" src="rixx5a" xy="291,138" size="224,40"/>
+    <text id="n21_rixx" name="n21" xy="292,142" size="221,32" input="true" prompt="请输入房间号" keyboardType="4" font="黑体" fontSize="25" vAlign="middle" autoSize="none" bold="true" singleLine="true" text=""/>
+  </displayList>
+</component>

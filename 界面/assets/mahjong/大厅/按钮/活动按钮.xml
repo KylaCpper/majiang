@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="91,74" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="1"/>
+  <displayList>
+    <image id="n1" name="n1" src="rixx3g" xy="0,0" pivot="0.5,0.5" scale="1.1,1.1">
+      <gearSize controller="button" pages="1" values="91,74,1.1,1.1" default="91,74,1,1" tween="true"/>
+    </image>
+  </displayList>
+  <Button/>
+</component>

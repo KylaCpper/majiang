@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="960,540">
+  <displayList>
+    <image id="n1_n7u3" name="n1" src="ojam2b" xy="132,52" size="687,467"/>
+    <component id="n2_n7u3" name="n2" src="ojam2e" xy="781,35"/>
+    <image id="n3_n7u3" name="n3" src="rixx47" xy="286,21"/>
+    <image id="n5_n7u3" name="n5" src="rixx46" xy="151,70" size="175,431"/>
+    <image id="n23_nasq" name="n23" src="r5re6r" xy="334,164" size="461,256"/>
+    <image id="n4_n7u3" name="n4" src="n7u37u" xy="434,33"/>
+    <component id="n6_n7u3" name="n6" src="n7u37v" xy="472,435"/>
+    <loader id="n11_n7u3" name="n11" xy="357,364" size="50,50" url="ui://n6ne5l88n7u37w"/>
+    <list id="n16_a6i2" name="n16" xy="152,72" size="173,427" overflow="scroll" defaultItem="ui://n6ne5l88a6i281">
+      <item/>
+      <item/>
+    </list>
+    <text id="n17_nasq" name="n17" xy="340,129" size="136,26" fontSize="22" color="#b28d64" autoSize="height" bold="true" singleLine="true" text="邮件名"/>
+    <text id="n18_nasq" name="n18" xy="587,129" size="214,26" fontSize="22" color="#ff0000" align="right" bold="true" singleLine="true" text="有效期：24天24小时"/>
+    <text id="n21_nasq" name="n21" xy="355,181" size="410,159" fontSize="20" color="#ffffff" autoSize="none" bold="true" text="邮件内容"/>
+  </displayList>
+</component>

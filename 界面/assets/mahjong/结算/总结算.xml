@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="960,540">
+  <displayList>
+    <image id="n1_gcsl" name="n1" src="ojam2b" xy="132,51" size="687,469"/>
+    <image id="n2_gcsl" name="n2" src="rixx47" xy="286,20"/>
+    <image id="n3_gcsl" name="n3" src="r5re63" xy="421,25"/>
+    <component id="n4_gcsl" name="n4" src="n7u37o" xy="284,439"/>
+    <component id="n5_gcsl" name="n5" src="jg3135" xy="509,439"/>
+    <image id="n6_rem7" name="n6" src="rem782" xy="493,94"/>
+    <image id="n7_rem7" name="n7" src="rem783" xy="194,94"/>
+    <image id="n8_rem7" name="n8" src="rem783" xy="194,266"/>
+    <image id="n9_rem7" name="n9" src="rem783" xy="493,266"/>
+    <component id="n13_rem7" name="n13" src="n7u37x" xy="225,108"/>
+    <component id="n14_rem7" name="n14" src="n7u37x" xy="525,108"/>
+    <component id="n15_rem7" name="n15" src="n7u37x" xy="225,280"/>
+    <component id="n16_rem7" name="n16" src="n7u37x" xy="521,280"/>
+    <text id="n18_rem7" name="n18" xy="315,142" size="130,29" font="黑体" fontSize="25" autoSize="height" bold="true" singleLine="true" text="玩家名字"/>
+    <text id="n19_rem7" name="n19" xy="222,214" size="206,29" font="黑体" fontSize="25" color="#ffffff" align="center" autoSize="height" bold="true" strokeColor="#000000" singleLine="true" text="总得分：+9999"/>
+    <text id="n20_rem7" name="n20" xy="522,214" size="206,29" font="黑体" fontSize="25" color="#ffffff" align="center" autoSize="height" bold="true" strokeColor="#000000" singleLine="true" text="总得分：+9999"/>
+    <text id="n21_rem7" name="n21" xy="222,386" size="206,29" font="黑体" fontSize="25" color="#ffffff" align="center" autoSize="height" bold="true" strokeColor="#000000" singleLine="true" text="总得分：+9999"/>
+    <text id="n22_rem7" name="n22" xy="522,386" size="206,29" font="黑体" fontSize="25" color="#ffffff" align="center" autoSize="height" bold="true" strokeColor="#000000" singleLine="true" text="总得分：+9999"/>
+    <text id="n23_kdwk" name="n23" xy="389,104" size="57,29" font="黑体" fontSize="25" color="#ffffff" autoSize="height" bold="true" strokeColor="#000000" singleLine="true" text="上家"/>
+    <text id="n24_kdwk" name="n24" xy="687,104" size="57,29" font="黑体" fontSize="25" color="#ffffff" autoSize="height" bold="true" strokeColor="#000000" singleLine="true" text="上家"/>
+    <text id="n25_kdwk" name="n25" xy="389,276" size="57,29" font="黑体" fontSize="25" color="#ffffff" autoSize="height" bold="true" strokeColor="#000000" singleLine="true" text="上家"/>
+    <text id="n26_kdwk" name="n26" xy="687,276" size="57,29" font="黑体" fontSize="25" color="#ffffff" autoSize="height" bold="true" strokeColor="#000000" singleLine="true" text="上家"/>
+    <text id="n27_kdwk" name="n27" xy="613,142" size="130,29" font="黑体" fontSize="25" autoSize="height" bold="true" singleLine="true" text="玩家名字"/>
+    <text id="n28_kdwk" name="n28" xy="315,315" size="130,29" font="黑体" fontSize="25" autoSize="height" bold="true" singleLine="true" text="玩家名字"/>
+    <text id="n29_kdwk" name="n29" xy="613,315" size="130,29" font="黑体" fontSize="25" autoSize="height" bold="true" singleLine="true" text="玩家名字"/>
+  </displayList>
+</component>

@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="n6ne5l88" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="j5wq0" name="碰2.png" path="/游戏界面/图/"/>
+    <image id="j5wq1" name="取消托管.png" path="/游戏界面/图/"/>
+    <image id="j5wq2" name="设置.png" path="/游戏界面/图/"/>
+    <image id="j5wq3" name="设置标题.png" path="/游戏界面/图/"/>
+    <image id="j5wq4" name="统计.png" path="/游戏界面/图/"/>
+    <image id="j5wq5" name="托管.png" path="/游戏界面/图/"/>
+    <image id="j5wq6" name="托管中.png" path="/游戏界面/图/"/>
+    <image id="j5wq7" name="微信登录.png" path="/游戏界面/图/"/>
+    <image id="j5wq8" name="语音.png" path="/游戏界面/图/"/>
+    <image id="j5wq9" name="准备.png" path="/游戏界面/图/"/>
+    <image id="j5wqa" name="帮助.png" path="/游戏界面/图/"/>
+    <image id="j5wqb" name="帮助子框.png" path="/游戏界面/图/" scale="9grid" scale9grid="48,52,46,33"/>
+    <image id="j5wqc" name="菜单.png" path="/游戏界面/图/"/>
+    <image id="j5wqd" name="菜单2.png" path="/游戏界面/图/"/>
+    <image id="j5wqe" name="叉2.png" path="/游戏界面/图/"/>
+    <image id="j5wqf" name="吃.png" path="/游戏界面/图/"/>
+    <image id="j5wqg" name="吃2.png" path="/游戏界面/图/"/>
+    <image id="j5wqh" name="大黄按钮.png" path="/游戏界面/图/"/>
+    <image id="j5wqi" name="登录界面.jpg" path="/游戏界面/图/"/>
+    <image id="j5wqj" name="返回.png" path="/游戏界面/图/"/>
+    <image id="j5wqk" name="分享标题.png" path="/游戏界面/图/"/>
+    <image id="j5wql" name="杠.png" path="/游戏界面/图/"/>
+    <image id="j5wqm" name="杠2.png" path="/游戏界面/图/"/>
+    <image id="j5wqn" name="过.png" path="/游戏界面/图/"/>
+    <image id="j5wqo" name="过2.png" path="/游戏界面/图/"/>
+    <image id="j5wqp" name="胡.png" path="/游戏界面/图/"/>
+    <image id="j5wqq" name="胡2.png" path="/游戏界面/图/"/>
+    <image id="j5wqr" name="胡牌.png" path="/游戏界面/图/"/>
+    <image id="j5wqs" name="箭头.png" path="/游戏界面/图/"/>
+    <image id="j5wqt" name="界面底.png" path="/游戏界面/图/"/>
+    <image id="j5wqu" name="开始游戏.png" path="/游戏界面/图/"/>
+    <image id="j5wqv" name="蓝按钮.png" path="/游戏界面/图/"/>
+    <image id="j5wqw" name="麻将桌头像框.png" path="/游戏界面/图/"/>
+    <image id="j5wqx" name="碰.png" path="/游戏界面/图/"/>
+    <component id="j5wqy" name="游戏开始.xml" path="/游戏界面/" exported="true"/>
+    <component id="j5wq17" name="返回.xml" path="/按钮/"/>
+    <component id="j5wq18" name="帮助.xml" path="/按钮/"/>
+    <component id="j5wq19" name="统计.xml" path="/按钮/"/>
+    <component id="j5wq1a" name="设置.xml" path="/按钮/"/>
+    <component id="j5wq1b" name="语音.xml" path="/按钮/"/>
+    <component id="j5wq1c" name="过.xml" path="/按钮/" exported="true"/>
+    <component id="j5wq1d" name="胡.xml" path="/按钮/" exported="true"/>
+    <component id="j5wq1e" name="杠.xml" path="/按钮/" exported="true"/>
+    <component id="j5wq1f" name="碰.xml" path="/按钮/" exported="true"/>
+    <component id="j5wq1g" name="吃.xml" path="/按钮/" exported="true"/>
+    <component id="j5wq1h" name="托管.xml" path="/按钮/"/>
+    <image id="j5wq1i" name="房间号码.jpg" path="/参考图/"/>
+    <image id="j5wq1j" name="加入房间2.jpg" path="/参考图/"/>
+    <image id="j5wq1k" name="结算.jpg" path="/参考图/"/>
+    <image id="j5wq1m" name="离开房间.jpg" path="/参考图/"/>
+    <image id="j5wq1n" name="离开房间2.jpg" path="/参考图/"/>
+    <image id="j5wq1o" name="离开房间3.jpg" path="/参考图/"/>
+    <image id="j5wq1p" name="麻将桌角度.jpg" path="/参考图/"/>
+    <image id="j5wq1q" name="设置.jpg" path="/参考图/"/>
+    <image id="j5wq1r" name="微信分享.jpg" path="/参考图/"/>
+    <image id="j5wq1s" name="战绩记录.jpg" path="/参考图/"/>
+    <image id="j5wq1t" name="战绩记录2.jpg" path="/参考图/"/>
+    <image id="j5wq1u" name="战绩记录3.jpg" path="/参考图/"/>
+    <image id="j5wq1v" name="帮助.jpg" path="/参考图/"/>
+    <image id="j5wq1w" name="登录界面.jpg" path="/参考图/"/>
+    <image id="j5wq1x" name="读取界面2.png" path="/参考图/"/>
+    <component id="j5wq1y" name="登录.xml" path="/登录/" exported="true"/>
+    <image id="j5wq1z" name="登录界面.jpg" path="/登录/图/"/>
+    <image id="j5wq20" name="微信登录.png" path="/登录/图/"/>
+    <component id="jupo21" name="微信登录.xml" path="/登录/按钮/"/>
+    <image id="jupo22" name="方框.png" path="/登录/图/"/>
+    <image id="jupo23" name="方框打勾.png" path="/登录/图/"/>
+    <component id="jupo24" name="勾选.xml" path="/登录/按钮/"/>
+    <component id="jupo25" name="大厅.xml" path="/大厅/" exported="true"/>
+    <component id="jupo26" name="设置.xml" path="/设置/" exported="true"/>
+    <image id="ojam27" name="圆点.png" path="/通用图片/"/>
+    <image id="ojam28" name="圆点选中.png" path="/通用图片/"/>
+    <image id="ojam29" name="音效开.png" path="/设置/图/"/>
+    <image id="ojam2a" name="音效拉动点2.png" path="/设置/图/"/>
+    <image id="ojam2b" name="界面底.png" path="/通用图片/" scale="9grid" scale9grid="178,57,76,32"/>
+    <image id="ojam2c" name="设置.png" path="/设置/图/"/>
+    <image id="ojam2d" name="叉叉正常.png" path="/通用图片/"/>
+    <component id="ojam2e" name="关闭.xml" path="/通用按钮/"/>
+    <component id="ojam2f" name="单选按钮.xml" path="/通用按钮/"/>
+    <image id="ojam2h" name="进度条底.png" path="/设置/图/" scale="9grid" scale9grid="11,6,8,8"/>
+    <image id="ojam2i" name="进度条.png" path="/设置/图/" scale="9grid" scale9grid="7,6,10,6"/>
+    <component id="ojam2j" name="滑动条_grip.xml" path="/设置/按钮/"/>
+    <component id="ojam2k" name="滑动条.xml" path="/设置/按钮/"/>
+    <image id="ojam2l" name="音效关2.png" path="/设置/图/"/>
+    <component id="ojam2m" name="音量关闭.xml" path="/设置/按钮/"/>
+    <component id="ojam2n" name="复选按钮.xml" path="/通用按钮/"/>
+    <component id="ojam2o" name="创房.xml" path="/创房界面/" exported="true"/>
+    <component id="gmwa2p" name="loading.xml" path="/loading/" exported="true"/>
+    <image id="gmwa2r" name="。。.png" path="/loading/图/"/>
+    <image id="gmwa2s" name="。。。.png" path="/loading/图/"/>
+    <image id="gmwa2t" name="读取界面.jpg" path="/loading/图/"/>
+    <image id="gmwa2u" name="读取界面特效.png" path="/loading/图/"/>
+    <image id="pkq02v" name="loding.png" path="/loading/图/"/>
+    <image id="pkq02w" name="正在加载中.png" path="/loading/图/"/>
+    <image id="xaa92x" name="447f0d548c33559f0042fe6f149b59fc.png" path="/loading/图/"/>
+    <image id="f1182y" name="麻将桌头像框(1).png" path="/游戏界面/图/"/>
+    <image id="f1182z" name="黑底.png" path="/游戏界面/图/" scale="9grid" scale9grid="16,9,32,10"/>
+    <component id="s7qa30" name="取消托管.xml" path="/按钮/"/>
+    <component id="jg3131" name="离开房间.xml" path="/游戏界面/" exported="true"/>
+    <image id="jg3132" name="取消.png" path="/通用图片/"/>
+    <image id="jg3133" name="确认.png" path="/通用图片/"/>
+    <image id="jg3134" name="黄按钮.png" path="/通用图片/"/>
+    <component id="jg3135" name="确定.xml" path="/通用按钮/"/>
+    <image id="jg3136" name="绿按钮.png" path="/通用图片/"/>
+    <component id="jg3137" name="取消.xml" path="/通用按钮/"/>
+    <component id="jg3138" name="加入房间.xml" path="/加入房间/" exported="true"/>
+    <component id="rixx39" name="帮助.xml" path="/帮助/" exported="true"/>
+    <image id="rixx3a" name="。(1).png" path="/loading/图/"/>
+    <image id="rixx3b" name="tips.png" path="/大厅/图/" scale="9grid" scale9grid="48,17,21,19"/>
+    <image id="rixx3c" name="帮助.png" path="/大厅/图/"/>
+    <image id="rixx3d" name="创建房间.png" path="/大厅/图/"/>
+    <image id="rixx3e" name="福利.png" path="/大厅/图/"/>
+    <image id="rixx3f" name="规则.png" path="/大厅/图/"/>
+    <image id="rixx3g" name="活动.png" path="/大厅/图/"/>
+    <image id="rixx3h" name="加入房间.png" path="/大厅/图/"/>
+    <image id="rixx3i" name="商城.png" path="/大厅/图/"/>
+    <image id="rixx3j" name="设置.png" path="/大厅/图/"/>
+    <image id="rixx3k" name="邮件.png" path="/大厅/图/"/>
+    <image id="rixx3l" name="主界面底.png" path="/大厅/图/"/>
+    <component id="rixx3m" name="加入房间.xml" path="/大厅/按钮/"/>
+    <component id="rixx3n" name="创建房间.xml" path="/大厅/按钮/"/>
+    <component id="rixx3o" name="商城按钮.xml" path="/大厅/按钮/"/>
+    <component id="rixx3p" name="设置按钮.xml" path="/大厅/按钮/"/>
+    <component id="rixx3q" name="邮件按钮.xml" path="/大厅/按钮/"/>
+    <component id="rixx3r" name="帮助按钮.xml" path="/大厅/按钮/"/>
+    <component id="rixx3s" name="福利按钮.xml" path="/大厅/按钮/"/>
+    <component id="rixx3t" name="规则按钮.xml" path="/大厅/按钮/"/>
+    <component id="rixx3u" name="活动按钮.xml" path="/大厅/按钮/"/>
+    <image id="rixx3v" name="示意图.jpg" path="/参考图/"/>
+    <image id="rixx3w" name="头像框.png" path="/大厅/图/"/>
+    <component id="rixx3x" name="头像.xml" path="/大厅/"/>
+    <image id="rixx3y" name="加号.png" path="/大厅/图/"/>
+    <component id="rixx3z" name="加号.xml" path="/大厅/按钮/"/>
+    <image id="rixx40" name="房卡.png" path="/大厅/图/"/>
+    <image id="rixx41" name="钻石.png" path="/大厅/图/"/>
+    <image id="rixx42" name="绿花纹按钮.png" path="/通用图片/"/>
+    <image id="rixx43" name="黄花纹按钮.png" path="/通用图片/"/>
+    <image id="rixx44" name="实名认证.png" path="/大厅/图/"/>
+    <component id="rixx45" name="实名认证.xml" path="/大厅/按钮/"/>
+    <image id="rixx46" name="绿底色.png" path="/通用图片/" scale="9grid" scale9grid="9,18,16,12"/>
+    <image id="rixx47" name="标题光.png" path="/通用图片/"/>
+    <component id="rixx48" name="基本规则.xml" path="/帮助/"/>
+    <component id="rixx49" name="特殊规则.xml" path="/帮助/"/>
+    <component id="rixx4a" name="牌型介绍.xml" path="/帮助/"/>
+    <component id="rixx4b" name="分数介绍.xml" path="/帮助/"/>
+    <image id="rixx4d" name="深页签1.png" path="/帮助/图/"/>
+    <image id="rixx4f" name="短淡页签.png" path="/帮助/图/"/>
+    <component id="rixx4g" name="基本规则.xml" path="/帮助/按钮/"/>
+    <component id="rixx4h" name="特殊规则.xml" path="/帮助/按钮/"/>
+    <component id="rixx4i" name="分数介绍.xml" path="/帮助/按钮/"/>
+    <component id="rixx4j" name="牌型介绍.xml" path="/帮助/按钮/"/>
+    <image id="rixx4k" name="帮助.png" path="/帮助/图/"/>
+    <image id="rixx4l" name="绿分数介绍.png" path="/帮助/图/"/>
+    <image id="rixx4m" name="绿基本规则.png" path="/帮助/图/"/>
+    <image id="rixx4n" name="绿牌型介绍.png" path="/帮助/图/"/>
+    <image id="rixx4o" name="绿特殊规则.png" path="/帮助/图/"/>
+    <image id="rixx4p" name="白分数介绍.png" path="/帮助/图/"/>
+    <image id="rixx4q" name="白基本规则.png" path="/帮助/图/"/>
+    <image id="rixx4r" name="白牌型介绍.png" path="/帮助/图/"/>
+    <image id="rixx4s" name="白特殊规则.png" path="/帮助/图/"/>
+    <image id="rixx4t" name="加入房间.png" path="/加入房间/图/"/>
+    <image id="rixx4u" name="数字板角.png" path="/加入房间/图/"/>
+    <image id="rixx4v" name="数字板中.png" path="/加入房间/图/"/>
+    <component id="rixx4w" name="1.xml" path="/加入房间/按钮/"/>
+    <component id="rixx4x" name="2.xml" path="/加入房间/按钮/"/>
+    <component id="rixx4y" name="3.xml" path="/加入房间/按钮/"/>
+    <component id="rixx4z" name="4.xml" path="/加入房间/按钮/"/>
+    <component id="rixx50" name="5.xml" path="/加入房间/按钮/"/>
+    <component id="rixx51" name="6.xml" path="/加入房间/按钮/"/>
+    <component id="rixx52" name="7.xml" path="/加入房间/按钮/"/>
+    <component id="rixx53" name="8.xml" path="/加入房间/按钮/"/>
+    <component id="rixx54" name="9.xml" path="/加入房间/按钮/"/>
+    <component id="rixx55" name="删除.xml" path="/加入房间/按钮/"/>
+    <component id="rixx56" name="0.xml" path="/加入房间/按钮/"/>
+    <component id="rixx57" name="重输.xml" path="/加入房间/按钮/"/>
+    <image id="rixx58" name="数字板底.png" path="/加入房间/图/" scale="9grid" scale9grid="6,100,8,32"/>
+    <component id="rixx59" name="每局结算.xml" path="/结算/" exported="true"/>
+    <image id="rixx5a" name="输字区域.png" path="/加入房间/图/" scale="9grid" scale9grid="9,9,7,6"/>
+    <image id="rixx5b" name="0 - 副本.png" path="/加入房间/图/"/>
+    <image id="rixx5c" name="0.png" path="/加入房间/图/"/>
+    <image id="rixx5d" name="1 - 副本.png" path="/加入房间/图/"/>
+    <image id="rixx5e" name="1.png" path="/加入房间/图/"/>
+    <image id="rixx5f" name="2 - 副本.png" path="/加入房间/图/"/>
+    <image id="rixx5g" name="2.png" path="/加入房间/图/"/>
+    <image id="rixx5h" name="3 - 副本.png" path="/加入房间/图/"/>
+    <image id="rixx5i" name="3.png" path="/加入房间/图/"/>
+    <image id="rixx5j" name="4 - 副本.png" path="/加入房间/图/"/>
+    <image id="rixx5k" name="4.png" path="/加入房间/图/"/>
+    <image id="rixx5l" name="5 - 副本.png" path="/加入房间/图/"/>
+    <image id="rixx5m" name="5.png" path="/加入房间/图/"/>
+    <image id="rixx5n" name="6 - 副本.png" path="/加入房间/图/"/>
+    <image id="rixx5o" name="6.png" path="/加入房间/图/"/>
+    <image id="rixx5p" name="7 - 副本.png" path="/加入房间/图/"/>
+    <image id="rixx5q" name="7.png" path="/加入房间/图/"/>
+    <image id="rixx5r" name="8 - 副本.png" path="/加入房间/图/"/>
+    <image id="rixx5s" name="8.png" path="/加入房间/图/"/>
+    <image id="rixx5t" name="9 - 副本.png" path="/加入房间/图/"/>
+    <image id="rixx5u" name="9.png" path="/加入房间/图/"/>
+    <image id="rixx5v" name="删除 - 副本.png" path="/加入房间/图/"/>
+    <image id="rixx5w" name="删除.png" path="/加入房间/图/"/>
+    <image id="rixx5x" name="重输 - 副本.png" path="/加入房间/图/"/>
+    <image id="rixx5y" name="重输.png" path="/加入房间/图/"/>
+    <image id="rixx5z" name="确认(1).png" path="/通用图片/"/>
+    <image id="rixx60" name="取消(1).png" path="/通用图片/"/>
+    <image id="rixx61" name="开设房间.png" path="/创房界面/图/"/>
+    <image id="r5re62" name="绿分享.png" path="/通用图片/"/>
+    <image id="r5re63" name="结算.png" path="/结算/图/"/>
+    <image id="r5re64" name="胡牌.png" path="/结算/图/"/>
+    <image id="r5re65" name="1.png" path="/结算/图/"/>
+    <image id="r5re66" name="2.png" path="/结算/图/"/>
+    <component id="r5re67" name="战绩记录.xml" path="/战绩记录/" exported="true"/>
+    <component id="r5re68" name="战绩流水.xml" path="/战绩记录/"/>
+    <component id="r5re69" name="总分排行.xml" path="/战绩记录/"/>
+    <component id="r5re6a" name="房间玩法.xml" path="/战绩记录/"/>
+    <image id="r5re6b" name="白房间玩法.png" path="/战绩记录/图/"/>
+    <image id="r5re6c" name="白战绩流水.png" path="/战绩记录/图/"/>
+    <image id="r5re6d" name="白总分排行.png" path="/战绩记录/图/"/>
+    <image id="r5re6e" name="淡页签.png" path="/战绩记录/图/"/>
+    <component id="r5re6f" name="房间玩法.xml" path="/战绩记录/按钮/"/>
+    <component id="r5re6g" name="战绩流水.xml" path="/战绩记录/按钮/"/>
+    <component id="r5re6h" name="总分排行.xml" path="/战绩记录/按钮/"/>
+    <image id="r5re6i" name="绿房间玩法.png" path="/战绩记录/图/"/>
+    <image id="r5re6j" name="绿战绩流水.png" path="/战绩记录/图/"/>
+    <image id="r5re6k" name="绿总分排行.png" path="/战绩记录/图/"/>
+    <image id="r5re6l" name="战绩记录.png" path="/战绩记录/图/"/>
+    <image id="r5re6n" name="开房界面4.jpg" path="/参考图/"/>
+    <image id="r5re6o" name="花纹按钮.png" path="/通用图片/"/>
+    <image id="r5re6p" name="花纹按钮亮.png" path="/通用图片/"/>
+    <component id="r5re6q" name="上海麻将.xml" path="/通用按钮/"/>
+    <image id="r5re6r" name="圆角黑透底.png" path="/创房界面/图/" scale="9grid" scale9grid="17,15,11,10"/>
+    <image id="r5re6s" name="创建房间.png" path="/创房界面/图/"/>
+    <component id="r5re6t" name="创房.xml" path="/创房界面/按钮/"/>
+    <component id="r5re6u" name="单选按钮小.xml" path="/通用按钮/"/>
+    <component id="c72u6w" name="商城.xml" path="/商城/" exported="true"/>
+    <component id="c72u6x" name="邮件.xml" path="/邮件/" exported="true"/>
+    <image id="c72u6y" name="商城.jpg" path="/参考图/"/>
+    <image id="c72u6z" name="商城.png" path="/商城/图/"/>
+    <image id="c72u70" name="板1.png" path="/商城/图/"/>
+    <image id="c72u71" name="板2.png" path="/商城/图/"/>
+    <image id="c72u72" name="板3.png" path="/商城/图/"/>
+    <image id="c72u73" name="领取.png" path="/商城/图/"/>
+    <component id="c72u74" name="积点.xml" path="/商城/" exported="true"/>
+    <component id="c72u75" name="领取.xml" path="/商城/按钮/"/>
+    <component id="c72u77" name="道具1.xml" path="/商城/按钮/"/>
+    <component id="c72u78" name="道具2.xml" path="/商城/按钮/"/>
+    <component id="c72u79" name="道具3.xml" path="/商城/按钮/"/>
+    <component id="c72u7a" name="分享.xml" path="/分享/" exported="true"/>
+    <image id="c72u7b" name="分享.png" path="/分享/图/"/>
+    <component id="c72u7c" name="总结算.xml" path="/结算/" exported="true"/>
+    <image id="t3037d" name="结算新.jpg" path="/参考图/"/>
+    <image id="t3037e" name="胜家.png" path="/结算/图/"/>
+    <image id="t3037f" name="头像框.png" path="/结算/图/"/>
+    <image id="t3037g" name="下半板.png" path="/结算/图/" scale="9grid" scale9grid="42,87,36,36"/>
+    <image id="t3037h" name="败家.png" path="/结算/图/"/>
+    <image id="t3037i" name="横条.png" path="/结算/图/" scale="9grid" scale9grid="45,18,13,10"/>
+    <component id="t3037j" name="上家.xml" path="/结算/"/>
+    <component id="n7u37k" name="本家.xml" path="/结算/"/>
+    <component id="n7u37l" name="下家.xml" path="/结算/"/>
+    <component id="n7u37m" name="对家.xml" path="/结算/"/>
+    <component id="n7u37n" name="牌型番数.xml" path="/结算/"/>
+    <component id="n7u37o" name="分享.xml" path="/通用按钮/"/>
+    <image id="n7u37p" name="收取按钮.png" path="/邮件/图/"/>
+    <image id="n7u37q" name="信封底.png" path="/邮件/图/"/>
+    <image id="n7u37r" name="信封开.png" path="/邮件/图/"/>
+    <image id="n7u37s" name="信封没开.png" path="/邮件/图/"/>
+    <image id="n7u37t" name="邮件.jpg" path="/参考图/"/>
+    <image id="n7u37u" name="邮件.png" path="/邮件/图/"/>
+    <component id="n7u37v" name="读取.xml" path="/邮件/按钮/"/>
+    <component id="n7u37w" name="道具.xml" path="/邮件/"/>
+    <component id="n7u37x" name="头像.xml" path="/结算/"/>
+    <image id="a6i27y" name="框1.png" path="/大厅/图/"/>
+    <image id="a6i27z" name="框2.png" path="/大厅/图/"/>
+    <image id="a6i280" name="分割线.png" path="/邮件/图/"/>
+    <component id="a6i281" name="邮件.xml" path="/邮件/图/"/>
+    <image id="rem782" name="胜利板.png" path="/结算/图/"/>
+    <image id="rem783" name="失败板.png" path="/结算/图/"/>
+    <image id="q1wt84" name="开始游戏(1).png" path="/游戏界面/图/"/>
+    <component id="q1wt85" name="开始游戏.xml" path="/游戏界面/按钮/"/>
+  </resources>
+  <publish name="mahjong" path="E:\01\client\res"/>
+</packageDescription>

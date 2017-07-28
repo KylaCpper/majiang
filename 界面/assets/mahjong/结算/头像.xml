@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="80,76">
+  <displayList>
+    <loader id="n6_n7u3" name="n6" xy="0,0" size="80,76" align="center" vAlign="middle"/>
+    <image id="n5_t303" name="n5" src="t3037f" xy="0,0"/>
+    <image id="n8_n7u3" name="n8" src="t3037f" xy="0,0" forMask="true"/>
+  </displayList>
+</component>

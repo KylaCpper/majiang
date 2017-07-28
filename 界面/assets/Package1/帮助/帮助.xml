@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="960,540">
+  <controller name="c1" pages="0,,1,,2,,3," selected="0"/>
+  <displayList>
+    <image id="n1_rixx" name="n1" src="ojam2b" xy="34,38" size="900,480"/>
+    <component id="n2_rixx" name="n2" src="ojam2e" xy="897,26"/>
+    <image id="n3_rixx" name="n3" src="rixx46" xy="47,49" size="178,457"/>
+    <list id="n4_rixx" name="n4" xy="231,198" size="682,300" overflow="scroll" defaultItem="ui://n6ne5l88rixx48">
+      <gearDisplay controller="c1" pages="0"/>
+      <item/>
+    </list>
+    <list id="n7_rixx" name="n7" xy="231,198" size="682,300" overflow="scroll" defaultItem="ui://n6ne5l88rixx49">
+      <gearDisplay controller="c1" pages="1"/>
+      <item/>
+    </list>
+    <list id="n8_rixx" name="n8" xy="231,198" size="682,300" overflow="scroll" defaultItem="ui://n6ne5l88rixx4a">
+      <gearDisplay controller="c1" pages="2"/>
+      <item/>
+    </list>
+    <list id="n9_rixx" name="n9" xy="231,198" size="682,300" overflow="scroll" defaultItem="ui://n6ne5l88rixx4b">
+      <gearDisplay controller="c1" pages="3"/>
+      <item/>
+    </list>
+    <component id="n15_rixx" name="n15" src="rixx4g" xy="244,118">
+      <Button checked="true" controller="c1" page="0"/>
+    </component>
+    <component id="n16_rixx" name="n16" src="rixx4h" xy="411,118">
+      <Button controller="c1" page="1"/>
+    </component>
+    <component id="n17_rixx" name="n17" src="rixx4j" xy="578,118">
+      <Button controller="c1" page="2"/>
+    </component>
+    <component id="n18_rixx" name="n18" src="rixx4i" xy="745,118">
+      <Button controller="c1" page="3"/>
+    </component>
+    <image id="n21_rixx" name="n21" src="rixx47" xy="314,7"/>
+    <image id="n19_rixx" name="n19" src="rixx4k" xy="439,18"/>
+    <component id="n22_9vxj" name="n22" src="r5re6q" xy="69,62"/>
+    <text id="n25_9vxj" name="n25" xy="52,318" size="113,29" font="黑体" fontSize="25" color="#3a711f" bold="true" text="上海麻将"/>
+    <text id="n26_9vxj" name="n26" xy="57,346" size="160,120" font="黑体" fontSize="16" color="#3a711f" autoSize="none" bold="true" text="包含敲码、清混碰、百搭三种打法，番型简单易懂、节奏较慢、技巧性较大，有独特的花分设计和封顶值规则。"/>
+  </displayList>
+</component>

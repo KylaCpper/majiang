@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="165,64">
+  <controller name="lingqu" pages="0,,1," selected="1"/>
+  <displayList>
+    <component id="n8_n7u3" name="n7" src="n7u37w" xy="2,0"/>
+    <image id="n12_a6i2" name="n12" src="a6i280" xy="0,56"/>
+    <text id="n13_a6i2" name="n13" xy="61,3" size="99,19" fontSize="15" color="#3a711f" autoSize="height" bold="true" singleLine="true" text="邮件的名字"/>
+    <text id="n14_a6i2" name="n14" xy="61,34" size="99,19" fontSize="15" color="#3a711f" align="center" vAlign="middle" autoSize="height" bold="true" singleLine="true" text="2017-01-15"/>
+    <image id="n15_rem7" name="n15" src="n7u37s" xy="2,7">
+      <gearDisplay controller="lingqu" pages="0"/>
+    </image>
+    <image id="n16_rem7" name="n16" src="n7u37r" xy="2,-1">
+      <gearDisplay controller="lingqu" pages="1"/>
+    </image>
+  </displayList>
+</component>

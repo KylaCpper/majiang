@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="960,540">
+  <displayList>
+    <image id="n2_rixx" name="n2" src="rixx3l" xy="0,0" size="960,540">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <component id="n9_rixx" name="n9" src="rixx3n" xy="572,188">
+      <relation target="" sidePair="right-right%"/>
+    </component>
+    <component id="n10_rixx" name="n10" src="rixx3m" xy="572,315">
+      <relation target="" sidePair="right-right%"/>
+    </component>
+    <image id="n20_rixx" name="n20" src="rixx3b" xy="104,421" size="194,66" group="n22_rixx"/>
+    <text id="n21_rixx" name="n21" xy="113,428" size="176,37" group="n22_rixx" font="黑体" fontSize="15" color="#ffffff" vAlign="middle" autoSize="height" bold="true" text="充值任意金额即可获得&#xA;12小时限免开房"/>
+    <group id="n22_rixx" name="n22" xy="104,421" size="194,66" advanced="true" collapsed="true">
+      <relation target="n13_rixx" sidePair="bottom-bottom,left-left"/>
+    </group>
+    <component id="n13_rixx" name="n13" src="rixx3o" xy="107,464">
+      <relation target="" sidePair="bottom-bottom,center-center"/>
+    </component>
+    <component id="n14_rixx" name="n14" src="rixx3p" xy="546,460">
+      <relation target="" sidePair="bottom-bottom,center-center"/>
+    </component>
+    <component id="n15_rixx" name="n15" src="rixx3q" xy="247,469">
+      <relation target="" sidePair="bottom-bottom,center-center"/>
+    </component>
+    <component id="n16_rixx" name="n16" src="rixx3u" xy="639,461">
+      <relation target="" sidePair="bottom-bottom,center-center"/>
+    </component>
+    <component id="n17_rixx" name="n17" src="rixx3s" xy="346,459">
+      <relation target="" sidePair="bottom-bottom,center-center"/>
+    </component>
+    <component id="n18_rixx" name="n18" src="rixx3r" xy="446,462">
+      <relation target="" sidePair="bottom-bottom,center-center"/>
+    </component>
+    <component id="n19_rixx" name="n19" src="rixx3t" xy="736,466">
+      <relation target="" sidePair="bottom-bottom,center-center"/>
+    </component>
+    <component id="n30_rixx" name="n30" src="rixx45" xy="14,106">
+      <relation target="n36_a6i2" sidePair="top-bottom,left-left"/>
+    </component>
+    <image id="n32_a6i2" name="n32" src="a6i27z" xy="589,25" group="n34_a6i2"/>
+    <component id="n11_rixx" name="n11" src="rixx3z" xy="713,29" group="n34_a6i2"/>
+    <image id="n23_rixx" name="n23" src="rixx40" xy="604,33" group="n34_a6i2"/>
+    <text id="n25_rixx" name="n25" xy="634,36" size="78,29" group="n34_a6i2" font="黑体" fontSize="25" color="#f9f6d4" vAlign="middle" autoSize="none" bold="true" singleLine="true" text=""/>
+    <group id="n34_a6i2" name="n34" xy="589,25" size="172,53" advanced="true">
+      <relation target="n35_a6i2" sidePair="right-left,top-top"/>
+    </group>
+    <image id="n33_a6i2" name="n33" src="a6i27z" xy="775,25" group="n35_a6i2"/>
+    <component id="n12_rixx" name="n12" src="rixx3z" xy="900,29" group="n35_a6i2"/>
+    <image id="n24_rixx" name="n24" src="rixx41" xy="774,24" group="n35_a6i2"/>
+    <text id="n26_rixx" name="n26" xy="821,36" size="78,29" group="n35_a6i2" font="黑体" fontSize="25" color="#f9f6d4" vAlign="middle" autoSize="none" bold="true" singleLine="true" text=""/>
+    <group id="n35_a6i2" name="n35" xy="774,24" size="173,54" advanced="true">
+      <relation target="" sidePair="right-right,top-top"/>
+    </group>
+    <image id="n31_a6i2" name="n31" src="a6i27y" xy="84,25" group="n36_a6i2"/>
+    <component id="n7_rixx" name="n1" src="rixx3x" xy="12,14" group="n36_a6i2">
+      <relation target="n2_rixx" sidePair="left-left,top-top"/>
+    </component>
+    <text id="n8_rixx" name="n8" xy="90,31" size="163,40" group="n36_a6i2" font="黑体" fontSize="25" color="#f9f6d4" vAlign="middle" autoSize="none" bold="true" singleLine="true" text=""/>
+    <group id="n36_a6i2" name="n36" xy="12,14" size="257,75" advanced="true">
+      <relation target="" sidePair="left-left,top-top"/>
+    </group>
+    <text id="n27_rixx" name="n27" xy="620,152" size="89,24" group="n37_a6i2" font="黑体" fontSize="20" color="#d9dc8f" vAlign="middle" bold="true" text="限时免费"/>
+    <text id="n28_rixx" name="n28" xy="728,152" size="96,24" group="n37_a6i2" font="黑体" fontSize="20" color="#ffffff" vAlign="middle" autoSize="height" bold="true" text="30天"/>
+    <group id="n37_a6i2" name="n37" xy="620,152" size="204,24" advanced="true">
+      <relation target="n9_rixx" sidePair="bottom-top,right-right"/>
+    </group>
+  </displayList>
+  <transition name="t0" autoPlay="true" autoPlayRepeat="-1">
+    <item time="0" type="XY" target="n22_rixx" tween="true" startValue="104,416" endValue="104,407" duration="18" ease="Linear"/>
+    <item time="18" type="XY" target="n22_rixx" tween="true" startValue="104,407" endValue="104,416" duration="18" ease="Linear"/>
+  </transition>
+</component>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="540,960">
+  <displayList>
+    <image id="n4" name="n4" src="mp728" xy="0,-2"/>
+    <text id="n0" name="n0" xy="7,17" size="524,110" fontSize="25" autoSize="none" text=""/>
+    <text id="n1" name="n1" xy="101,330" size="416,62" fontSize="15" autoSize="none" text=""/>
+    <text id="n2" name="n2" xy="98,394" size="416,63" fontSize="15" autoSize="none" text=""/>
+    <text id="n3" name="n3" xy="101,465" size="419,63" fontSize="15" autoSize="none" text=""/>
+    <list id="n17" name="n17" xy="119,852" size="409,101" layout="row" overflow="scroll" scroll="horizontal"/>
+    <component id="n19" name="n18" src="mp72l" xy="3,870"/>
+    <text id="n20" name="n20" xy="5,138" size="74,80" fontSize="30" autoSize="none" text="吃碰杠"/>
+    <text id="n21" name="n21" xy="104,129" size="425,91" fontSize="15" autoSize="none" text=""/>
+    <text id="n22" name="n22" xy="2,229" size="85,85" fontSize="30" autoSize="none" text="打出的牌"/>
+    <text id="n23" name="n23" xy="98,225" size="430,91" fontSize="15" autoSize="none" text=""/>
+    <text id="n24" name="n24" xy="99,534" size="423,65" fontSize="15" autoSize="none" text=""/>
+    <text id="n25" name="n25" xy="103,607" size="421,67" fontSize="15" autoSize="none" text=""/>
+    <text id="n26" name="n26" xy="104,679" size="422,65" fontSize="15" autoSize="none" text=""/>
+    <text id="n27" name="n27" xy="12,340" size="81,121" fontSize="20" autoSize="none" text="吃碰杠&#xA;&#xA;&#xA;打出的牌"/>
+    <text id="n28" name="n28" xy="12,472" size="85,133" fontSize="20" autoSize="none" text="吃碰杠&#xA;&#xA;&#xA;打出的牌"/>
+    <text id="n29" name="n29" xy="11,613" size="85,137" fontSize="20" autoSize="none" text="吃碰杠&#xA;&#xA;&#xA;打出的牌"/>
+    <text id="n31" name="n31" xy="19,756" size="69,90" fontSize="20" autoSize="none" text="要打的牌输入对应位置"/>
+    <component id="n33" name="n32" src="mp72n" xy="92,767"/>
+    <text id="n34" name="n34" xy="271,774" size="55,24" fontSize="20" autoSize="height" text=""/>
+    <text id="n35" name="n35" xy="35,378" size="26,24" fontSize="20" color="#ff0000" bold="true" text="左"/>
+    <text id="n36" name="n36" xy="33,507" size="26,24" fontSize="20" color="#ff0000" bold="true" text="右"/>
+    <text id="n37" name="n37" xy="36,646" size="26,24" fontSize="20" color="#ff0000" bold="true" text="对"/>
+    <text id="n38" name="n38" xy="339,763" size="89,24" fontSize="20" bold="true" text="我的位置"/>
+    <text id="n39" name="n39" xy="440,763" size="53,24" fontSize="20" color="#ff0000" autoSize="height" bold="true" text=""/>
+    <text id="n40" name="n40" xy="341,798" size="89,24" fontSize="20" bold="true" text="当前轮到"/>
+    <text id="n41" name="n41" xy="442,795" size="54,24" fontSize="20" color="#ff0000" autoSize="height" bold="true" text=""/>
+    <text id="n42" name="n42" xy="112,814" size="167,24" fontSize="20" color="#ff0000" autoSize="height" bold="true" text=""/>
+  </displayList>
+</component>

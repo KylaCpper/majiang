@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="540,960">
+  <displayList>
+    <text id="n0" name="n0" xy="98,170" size="185,34" fontSize="30" text="loading....."/>
+  </displayList>
+</component>

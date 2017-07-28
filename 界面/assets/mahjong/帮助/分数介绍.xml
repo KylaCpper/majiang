@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="644,1338">
+  <displayList>
+    <text id="n2_rixx" name="n2" xy="20,316" size="113,29" group="n6_rixx" font="黑体" fontSize="25" color="#b28d64" bold="true" text="番数计算"/>
+    <text id="n3_rixx" name="n3" xy="20,346" size="624,369" group="n6_rixx" font="黑体" fontSize="20" color="#b28d64" autoSize="height" text="胡牌的花数根据胡牌时的胡牌类型和胡牌方式来定（1勒＝10倍底分），如果非一、二类胡牌的，还要参照底花：&#xA;天胡：10勒&#xA;地胡：8勒&#xA;八花：4勒 &#xA;字一色：4勒&#xA;乱风向：2勒&#xA;清碰：2勒&#xA;清一色：1勒&#xA;混一色碰碰胡：1勒&#xA;大吊车：1勒 &#xA;杠开：1勒&#xA;混一色：0番&#xA;碰碰胡：0番&#xA;门清：1番 &#xA;抢杠：×3"/>
+    <group id="n6_rixx" name="n6" xy="20,316" size="624,399" advanced="true" collapsed="true">
+      <relation target="n8_rixx" sidePair="top-bottom"/>
+    </group>
+    <text id="n4_rixx" name="n4" xy="20,724" size="113,29" group="n7_rixx" font="黑体" fontSize="25" color="#b28d64" bold="true" text="算分规则"/>
+    <text id="n5_rixx" name="n5" xy="20,754" size="624,93" group="n7_rixx" font="黑体" fontSize="20" color="#b28d64" autoSize="height" text="(花数量+2)X底分设置=输赢分数&#xA;例:1万底分,辣子10万,1花胡=3万,2花胡=4万,7花胡=9万,8花胡=10万=辣子&#xA;普通牌型[如碰碰胡、混一色等]胡下来>=8花也算做1辣=10倍底分。"/>
+    <group id="n7_rixx" name="n7" xy="20,724" size="624,123" advanced="true" collapsed="true">
+      <relation target="n6_rixx" sidePair="top-bottom"/>
+    </group>
+    <text id="n0_rixx" name="n0" xy="20,30" size="624,277" group="n8_rixx" font="黑体" fontSize="20" color="#b28d64" autoSize="height" text="花牌：1花/个&#xA;风向碰：1花/个&#xA;风暗刻：1花/个&#xA;字牌碰：2花/个 &#xA;字暗刻：2花/个 &#xA;明杠（上杠）：1花/个&#xA;暗杠：2花/个&#xA;风向明杠（上杠）：2花/个&#xA;风向暗杠：3花/个&#xA;字牌明杠（上杠）：3花/个&#xA;字牌暗杠：4花/个&#xA;底：2*游戏底分"/>
+    <text id="n1_rixx" name="n1" xy="20,0" size="113,29" group="n8_rixx" font="黑体" fontSize="25" color="#b28d64" bold="true" text="计分规则"/>
+    <group id="n8_rixx" name="n8" xy="20,0" size="624,307" collapsed="true"/>
+    <text id="n9_rixx" name="n9" xy="20,857" size="275,29" group="n11_rixx" font="黑体" fontSize="25" color="#b28d64" bold="true" text="吃三口包五家规则计分"/>
+    <text id="n10_rixx" name="n10" xy="20,887" size="624,415" group="n11_rixx" font="黑体" fontSize="20" color="#b28d64" autoSize="height" text="三口关系自摸情况&#xA;  双三口关系为10家。三个三口关系为15家。&#xA;例：&#xA;  若A与B是3口关系，A同时又与C是三口关系，当A自摸时，B与C均输5份最终分数；&#xA;  若A与B，A与C，A与D均有三口关系，当A自摸时，B、C、D均输5份最终花数；&#xA;&#xA;三口关系出铳情况&#xA;  三口关系的两家之间一家放炮，另一家胡牌，赢者得2份，输者扣2份（出铳者扣2个等级分，连带关系者不扣等级分）；&#xA;  无三口关系的玩家放炮给有3口关系的玩家胡牌，将判断出铳者是否听牌：如听牌，则扣一份积分，与胡牌者有3口关系的玩家也同样扣一份积分，胡牌者赢取对应的份数；如不听牌，则出铳者扣2份积分，与胡牌者有三口关系的玩家不扣积分，胡牌者赢取对应的份数。&#xA;算出胡牌花数之后，根据本局是否荒番局、胡牌方式和玩家之间的3口关系来调整积分。&#xA;如果是荒番局，最终获得的积分×2。"/>
+    <group id="n11_rixx" name="n11" xy="20,857" size="624,445" advanced="true" collapsed="true">
+      <relation target="n7_rixx" sidePair="top-bottom"/>
+    </group>
+  </displayList>
+</component>

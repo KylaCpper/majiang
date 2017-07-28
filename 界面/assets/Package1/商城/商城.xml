@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="960,540">
+  <displayList>
+    <image id="n1_c72u" name="n1" src="ojam2b" xy="132,50" size="687,470"/>
+    <component id="n2_c72u" name="n2" src="ojam2e" xy="781,37"/>
+    <image id="n3_c72u" name="n3" src="rixx47" xy="286,19"/>
+    <image id="n4_c72u" name="n4" src="c72u6z" xy="411,32"/>
+    <text id="n14_c72u" name="n14" xy="160,471" size="490,30" font="黑体" fontSize="14" color="#333333" vAlign="middle" autoSize="none" bold="true" singleLine="true" text="注：消费1元可获得1个积点，满100积点可领取12小时限免开房"/>
+    <text id="n15_c72u" name="n15" xy="156,438" size="75,30" font="黑体" fontSize="26" color="#b28d64" vAlign="middle" autoSize="none" bold="true" singleLine="true" text="积点："/>
+    <component id="n16_c72u" name="n16" src="c72u74" xy="240,443" size="365,23">
+      <ProgressBar value="37" max="100"/>
+    </component>
+    <component id="n17_c72u" name="n17" src="c72u75" xy="629,433"/>
+    <component id="n22_c72u" name="n22" src="c72u77" xy="156,125"/>
+    <component id="n23_c72u" name="n23" src="c72u78" xy="372,124"/>
+    <component id="n24_c72u" name="n24" src="c72u79" xy="588,124"/>
+  </displayList>
+</component>

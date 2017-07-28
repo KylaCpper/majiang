@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="111,24">
+  <displayList>
+    <text id="n20_n7u3" name="n20" xy="0,0" size="111,24" font="黑体" fontSize="20" color="#7ce41f" bold="true" singleLine="true" text="牌型  番数"/>
+  </displayList>
+</component>

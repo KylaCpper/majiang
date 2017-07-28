@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="540,960">
+  <displayList>
+    <image id="n5" name="n5" src="mp728" xy="0,0"/>
+    <component id="n1" name="n0" src="mp725" xy="87,280"/>
+    <component id="n3" name="n2" src="mp727" xy="125,197"/>
+    <text id="n4" name="n4" xy="71,105" size="261,59" input="true" fontSize="12" autoSize="none" text="input"/>
+  </displayList>
+</component>

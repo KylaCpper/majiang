@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="207,285" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n1" name="n1" src="c72u72" xy="0,0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <text id="n2_c72u" name="n2" xy="11,198" size="184,30" font="黑体" fontSize="26" color="#b28d64" align="center" vAlign="middle" autoSize="none" bold="true" singleLine="true" text="20张房卡"/>
+    <text id="n3_c72u" name="n3" xy="57,238" size="89,37" font="黑体" fontSize="32" color="#ffffff" align="center" vAlign="middle" autoSize="none" bold="true" text="20元"/>
+  </displayList>
+  <Button/>
+</component>

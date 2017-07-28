@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="960,540">
+  <displayList>
+    <image id="n4_jupo" name="n4" src="j5wq1z" xy="0,0"/>
+    <component id="n2_jupo" name="n2" src="jupo21" xy="362,330"/>
+    <component id="n3_jupo" name="n3" src="jupo24" xy="365,434"/>
+  </displayList>
+</component>
